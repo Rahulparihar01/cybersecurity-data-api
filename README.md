@@ -15,8 +15,8 @@ This project is a FastAPI application designed to fetch paginated data from Goog
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Rahulparihar01/riskapp.git
-   cd riskapp
+   git clone https://github.com/Rahulparihar01/cybersecurity-data-api.git
+   cd cybersecurity-data-api
    ```
 
 2. **Install Dependencies**:
